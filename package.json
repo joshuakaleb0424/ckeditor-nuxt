@@ -1,5 +1,5 @@
 {
-  "name": "@blowstack/ckeditor-nuxt",
+  "name": "@engrjerickcmangalus/ckeditor-nuxt-mod",
   "version": "0.2.0",
   "private": false,
   "author": {
@@ -28,6 +28,7 @@
     "@blowstack/ckeditor5-full-free-build": "^20.0.0",
     "@ckeditor/ckeditor5-vue": "^1.0.1",
     "core-js": "^3.6.4",
+    "nuxt": "^2.14.4",
     "vue": "^2.6.11"
   },
   "devDependencies": {
