@@ -1,11 +1,7 @@
 {
   "name": "@engrjerickcmangalus/ckeditor-nuxt-mod",
   "version": "0.2.1",
-  "private": false,
-  "author": {
-    "name": "BlowStack",
-    "email": "piotr.golon@gmail.com"
-  },
+
   "keywords": [
     "ckeditor5 nuxt",
     "ckeditor 5 nuxt",
