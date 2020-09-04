@@ -1,7 +1,11 @@
 {
-  "name": "@engrjerickcmangalus/ckeditor-nuxt-mod",
-  "version": "0.2.4",
-
+  "name": "@engrjerickcmangalus/ckeditor-nuxt-custom",
+  "version": "0.2.5",
+  "private": false,
+  "author": {
+    "name": "engrjerickcmangalus",
+    "email": "engr.jerickc.mangalus08@gmail.com"
+  },
   "keywords": [
     "ckeditor5 nuxt",
     "ckeditor 5 nuxt",
