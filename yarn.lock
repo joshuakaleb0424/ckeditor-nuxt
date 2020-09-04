@@ -1329,10 +1329,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/convert-colors/-/convert-colors-1.4.0.tgz#ad495dc41b12e75d588c6db8b9834f08fa131eb7"
   integrity sha512-5a6wqoJV/xEdbRNKVo6I4hO3VjyDq//8q2f9I6PBAvMesJHFauXDorcNCsr9RzvsZnaWi5NYCcfyqP1QeFHFbw==
 
-"@engrjerickcmangalus/ckeditor5-build-custom-ck@^0.0.9":
-  version "0.0.9"
-  resolved "https://registry.yarnpkg.com/@engrjerickcmangalus/ckeditor5-build-custom-ck/-/ckeditor5-build-custom-ck-0.0.9.tgz#680d0f3bf640fac30df3fb6e879bbd589b41c3d7"
-  integrity sha512-VCWgSdONggSRw+5Fhlzqzpajl8cu8O/mQXhq3BZ4YxIrkxE3XIOi79KSYvfcYVscOj/BLIptCfLB9nurpnV/ig==
+"@engrjerickcmangalus/ckeditor5-build-custom-ck@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@engrjerickcmangalus/ckeditor5-build-custom-ck/-/ckeditor5-build-custom-ck-0.1.1.tgz#9e565f5b70297f3483ebaf5de594f9cff51a2987"
+  integrity sha512-gESyneXSUpXNFj35+zO0iCLYlmlInJ74oN2gpyT91S+fr2pUrRu4ukx9vd5toFvL9bM1hdMX/WVcthTp4noyLA==
   dependencies:
     "@ckeditor/ckeditor5-alignment" "^22.0.0"
     "@ckeditor/ckeditor5-code-block" "^22.0.0"
