@@ -27,6 +27,7 @@
   "dependencies": {
     "@blowstack/ckeditor5-full-free-build": "^20.0.0",
     "@ckeditor/ckeditor5-vue": "^1.0.1",
+    "@engrjerickcmangalus/ckeditor5-build-custom-ck": "^0.0.5",
     "core-js": "^3.6.4",
     "nuxt": "^2.14.4",
     "vue": "^2.6.11"
