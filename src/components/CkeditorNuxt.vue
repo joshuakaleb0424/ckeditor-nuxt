@@ -12,7 +12,7 @@
 
     // import FullFreeBuildEditor from '@blowstack/ckeditor5-full-free-build'
 
-    import FullFreeBuildEditor from '@engrjerickcmangalus/ckeditor5-build-custom-ck'
+    import FullFreeBuildEditor from '@engrjerickcmangalus/ckeditor5-build-custom-simpleuploader'
     import CKEditor from '@ckeditor/ckeditor5-vue'
 
     export default {
