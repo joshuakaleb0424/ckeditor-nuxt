@@ -15,7 +15,7 @@
     // import FullFreeBuildEditor from '@engrjerickcmangalus/ckeditor5-build-custom-simpleuploader'
     // import FullFreeBuildEditor from '@engrjerickcmangalus/ckeditor5-build-custom-inlineuploader'
     // import FullFreeBuildEditor from '@engrjerickcmangalus/ckeditor5-build-custom-ck'
-    import FullFreeBuildEditor from '@engrjerickcmangalus/ckeditor5-build-custom-inlineupload'
+    import FullFreeBuildEditor from '@engrjerickcmangalus/ckeditor5-build-custom-simpleuploader'
     import CKEditor from '@ckeditor/ckeditor5-vue'
 
     export default {

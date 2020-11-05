@@ -1,5 +1,5 @@
 {
-  "name": "@engrjerickcmangalus/ckeditor-nuxt-inlineupload",
+  "name": "@engrjerickcmangalus/ckeditor-nuxt-custom-build-simpleuploader",
   "version": "0.1.8",
   "private": false,
   "author": {
@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@ckeditor/ckeditor5-vue": "^1.0.1",
-    "@engrjerickcmangalus/ckeditor5-build-custom-inlineupload": "^0.1.3",
+    "@engrjerickcmangalus/ckeditor5-build-custom-simpleuploader": "^0.1.5",
     "core-js": "^3.6.4",
     "nuxt": "^2.14.4",
     "vue": "^2.6.11"
