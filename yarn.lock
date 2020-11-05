@@ -1202,10 +1202,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/convert-colors/-/convert-colors-1.4.0.tgz#ad495dc41b12e75d588c6db8b9834f08fa131eb7"
   integrity sha512-5a6wqoJV/xEdbRNKVo6I4hO3VjyDq//8q2f9I6PBAvMesJHFauXDorcNCsr9RzvsZnaWi5NYCcfyqP1QeFHFbw==
 
-"@engrjerickcmangalus/ckeditor5-build-custom-simpleuploader@^0.1.5":
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/@engrjerickcmangalus/ckeditor5-build-custom-simpleuploader/-/ckeditor5-build-custom-simpleuploader-0.1.5.tgz#0428fa543f77b9c1e7ca717b8213355965c7847a"
-  integrity sha512-adj0l50BJ5DHYXD+EfaXYnAJnYg276E4FPGh19hVXn5kbpEE0CUChLvhXI6rsBlpjMVZilfc1vV+ChaGrVnOVA==
+"@engrjerickcmangalus/ckeditor5-build-custom-inline-project@^0.1.6":
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/@engrjerickcmangalus/ckeditor5-build-custom-inline-project/-/ckeditor5-build-custom-inline-project-0.1.6.tgz#d7e0b22f9ca17d9b6e06c3532740de3ee01c0f26"
+  integrity sha512-y7bficqD5Ve0ptC6A4yTSuiRnhx5peWj7hwg8+eoVVv1dVwc4zaqLjGg4+IWbrgZgiqkf8zx6POt8s/bc84wAg==
   dependencies:
     "@ckeditor/ckeditor5-alignment" "^22.0.0"
     "@ckeditor/ckeditor5-code-block" "^22.0.0"
